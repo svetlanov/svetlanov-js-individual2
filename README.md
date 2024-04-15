@@ -36,7 +36,8 @@
 
 
 - **Обработка Ошибок**: В случае ошибки в запросе на странице появится сообщение "К сожалению, произошла ошибка".
-<img width="547" alt="Снимок экрана 2024-04-15 в 20 43 02" src="https://github.com/svetlanov/svetlanov-js-individual2/assets/166555611/043137f9-49cd-46db-ac58-57de2323b019">
+<img width="487" alt="Снимок экрана 2024-04-15 в 20 43 58" src="https://github.com/svetlanov/svetlanov-js-individual2/assets/166555611/5621d51d-6079-4777-96fe-955f760330d3">
+
 
 ## Ответы на Контрольные Вопросы
 
